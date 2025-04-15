@@ -117,3 +117,5 @@ man sleep
 __vsc_prompt_cmd_original
 sleep 3
 man sleep
+uit
+./countdown.sh 3
