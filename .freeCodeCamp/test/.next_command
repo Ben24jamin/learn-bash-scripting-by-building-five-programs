@@ -78,3 +78,4 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 [[ -n 4-le5 ]]
 [[ 4 -le 5 ]]
+echo $?
