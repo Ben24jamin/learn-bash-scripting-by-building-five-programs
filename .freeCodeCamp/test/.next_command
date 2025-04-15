@@ -93,3 +93,8 @@ ls --color=auto -y
 help test
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+more countdown.sh
+chmod countdown.sh
+ls --color=auto -l countdown.sh
+help test
+[[ -x countdown.sh ]]
