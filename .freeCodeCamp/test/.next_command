@@ -109,3 +109,4 @@ help test
 help if
 man if
 help
+./countdown.sh 10
