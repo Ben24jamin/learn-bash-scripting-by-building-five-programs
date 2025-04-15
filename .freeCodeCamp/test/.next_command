@@ -98,3 +98,4 @@ chmod countdown.sh
 ls --color=auto -l countdown.sh
 help test
 [[ -x countdown.sh ]]
+help [[
