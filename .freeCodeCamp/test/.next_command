@@ -119,3 +119,4 @@ sleep 3
 man sleep
 uit
 ./countdown.sh 3
+./countdown.sh 3
